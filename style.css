@@ -1,0 +1,31 @@
+/* INDEX STYLE */
+body {
+    background-color: #3d3e3f;
+}
+.container{
+    background-color:#b8b09e;
+    font-family:  monospace;
+}
+.rounded-circle {
+    width: 200px;
+    transition: transform 1.0s;
+    margin-left: 80px;
+    box-shadow: 10px 10px rgb(0 0 0 / 0.2);
+}
+.rounded-circle:hover {
+    transform: scale(1.1);
+   
+}
+h1 {
+    background-color: #68604c;
+    border-radius: 40px;
+    padding-left: 40px;
+}
+li {
+    list-style-type: none;
+}
+p {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(76, 79, 72);
+}
